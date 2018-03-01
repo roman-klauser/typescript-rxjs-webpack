@@ -7,6 +7,6 @@ body {
     top: 200px;
     width: 250px;
     height: 250px;
-    cursor: crosshair;
-    cursor: url("assets/aim.png"), auto;
+    // cursor: url("assets/aim.png"), auto;
+    cursor: url("assets/camera.png"), auto;
 }
